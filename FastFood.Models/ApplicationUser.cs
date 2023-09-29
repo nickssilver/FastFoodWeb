@@ -12,6 +12,7 @@ namespace FastFood.Models
         public string Name { get; set; }
 
         public String City { get; set; }
+
         public String Adresss { get; set; }
 
         public string PostalCode { get; set; }
