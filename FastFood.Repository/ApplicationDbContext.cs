@@ -26,7 +26,7 @@ namespace FastFood.Repository
         public DbSet<OrderDetails> OrderDetails { get; set; }
         public DbSet<OrderHeader> OrderHeaders { get; set; }
 
-        public DbSet<SubCategories> SubCategories { get; set; }
+        public DbSet<SubCategory> SubCategories { get; set; }
 
 
     }

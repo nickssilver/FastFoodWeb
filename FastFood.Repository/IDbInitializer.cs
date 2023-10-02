@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FastFood.Repository
 {
-    public interface IDInitializer
+    public interface IDbInitializer
     {
         void Initialize();
     }
